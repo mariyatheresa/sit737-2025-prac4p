@@ -1,0 +1,6 @@
+{"level":"info","message":"Server started on port 2002","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Add: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Divide: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Divide: 0 / 5 = 0","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not allowed.","service":"calculator-microservice"}
